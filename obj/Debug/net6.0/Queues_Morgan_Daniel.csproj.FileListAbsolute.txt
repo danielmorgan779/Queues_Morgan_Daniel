@@ -1,0 +1,4 @@
+C:\Users\DanielMorgan\source\repos\Queues_Morgan_Daniel\obj\Debug\net6.0\Queues_Morgan_Daniel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanielMorgan\source\repos\Queues_Morgan_Daniel\obj\Debug\net6.0\Queues_Morgan_Daniel.AssemblyInfoInputs.cache
+C:\Users\DanielMorgan\source\repos\Queues_Morgan_Daniel\obj\Debug\net6.0\Queues_Morgan_Daniel.AssemblyInfo.cs
+C:\Users\DanielMorgan\source\repos\Queues_Morgan_Daniel\obj\Debug\net6.0\Queues_Morgan_Daniel.csproj.CoreCompileInputs.cache
